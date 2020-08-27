@@ -7,6 +7,7 @@ O controle das tarefas será realizado pelo Github
 
 ##Icones
 
-nova funcionalidade
-atualização,
-release.
+:package: nova funcionalidade,
+:up: atualização,
+:beatle: correção de bug,
+:checkered: release.
