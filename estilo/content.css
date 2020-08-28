@@ -41,7 +41,7 @@
 
 .content-header h1 {
     font: 300 3.5rem var(--font-action);
-    color: rgb(165, 0, 0);
+    color: rgb(204, 17, 17);
     text-shadow:  1px 1px #000;
     border-bottom: solid 0.8px rgb(194, 192, 192) ;
     text-align: center;
