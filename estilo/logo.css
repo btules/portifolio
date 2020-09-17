@@ -66,3 +66,10 @@
 .container-fluid header .banner button:hover{
     opacity: 0.8;
 }
+
+@media (max-width: 760px){
+    .container-fluid header .banner h1 {
+        line-height: 3rem;
+        
+    }
+}
