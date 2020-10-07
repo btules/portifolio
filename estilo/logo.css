@@ -63,6 +63,11 @@
     animation: transicaoLetras 1s  0.9s forwards;
 }
 
+.container-fluid header .banner button a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .container-fluid header .banner button:hover{
     opacity: 0.8;
 }
