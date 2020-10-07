@@ -1,5 +1,5 @@
 
-const menuItens = document.querySelectorAll('a')
+const menuItens = document.querySelectorAll('a[href^="#"')
 
 menuItens.forEach(itens => {
     itens.addEventListener('click', scrollToIdOnClick)
