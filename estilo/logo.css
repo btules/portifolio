@@ -61,9 +61,11 @@
     cursor: pointer;
     opacity: 0;
     animation: transicaoLetras 1s  0.9s forwards;
+    
 }
 
 .container-fluid header .banner button a{
+    list-style: none;
     color: #ffffff;
     text-decoration: none;
 }
